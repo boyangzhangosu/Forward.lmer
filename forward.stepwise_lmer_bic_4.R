@@ -7,7 +7,7 @@ forward.lmer <- function(
 {
   
   # forward.lmer: a function for stepwise regression using lmer mixed effects models
-  # Author: Rense Nieuwenhuis
+  # Author list: Rense Nieuwenhuis, Ferraz Dias de Moraes, Luis Eduardo, Boyang Zhang (zhang.7077@osu.edu)
   
   # Initialysing internal variables
   log.step <- 0
